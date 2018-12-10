@@ -30,18 +30,19 @@ IMAGE - https://drive.google.com/drive/folders/1Egxj5igJq6kzur1B0C-cUlUuec3Nso6p
 ## CONTROLLER
 
 //TODO: Needs dimensional information of controller housing so others can build
+//TODO: Needs 3D model for 3D printing
 
 ## CODE
 Here is information about the necessary code for King Pong.
 
 #### Arduino Encoder
 
-CODE - https://github.com/pramslam/OpenKingPong/blob/master/Code/controller-hardware/encoder/encoder.ino
+https://github.com/pramslam/OpenKingPong/blob/master/Code/controller-hardware/encoder/encoder.ino
 
 #### Ping Pong Game - Unity3D
 
-CODE - https://github.com/pramslam/OpenKingPong/tree/master/Code/KingPong2D
+https://github.com/pramslam/OpenKingPong/tree/master/Code/KingPong2D
 
-CODE - https://github.com/pramslam/OpenKingPong/tree/master/Code/king-pong-2d
+https://github.com/pramslam/OpenKingPong/tree/master/Code/king-pong-2d
 
-CODE - https://github.com/pramslam/OpenKingPong/tree/master/Code/KingPong
+https://github.com/pramslam/OpenKingPong/tree/master/Code/KingPong
