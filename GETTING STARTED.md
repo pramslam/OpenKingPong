@@ -1,6 +1,6 @@
-#Getting started
+# Getting started
 
-#PARTS
+## PARTS
 These are the necessary parts to build King Pong and sources on how to get/make them.
 
 Coaster Home Furnishings Round Upholstered Ottoman Black
@@ -19,10 +19,10 @@ Arduino Board
 IMAGE - https://drive.google.com/drive/folders/1Egxj5igJq6kzur1B0C-cUlUuec3Nso6p
 //TODO: Needs dimensional information so others can laser cut or 3D print
 
-#CONTROLLER
+## CONTROLLER
 //TODO: Needs dimensional information of controller housing so others can build
 
-#CODE
+## CODE
 Here is information about the necessary code for King Pong.
 
 Arduino Encoder
