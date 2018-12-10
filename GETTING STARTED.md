@@ -26,11 +26,11 @@ IMAGE - https://drive.google.com/open?id=1DfAjU5bVpaO7l7mtTOZadEMWkl25ua0M
 IMAGE - https://drive.google.com/drive/folders/1Egxj5igJq6kzur1B0C-cUlUuec3Nso6p
 
 //TODO: Needs dimensional information so others can laser cut or 3D print
+//TODO: Needs 3D model for 3D printing
 
 ## CONTROLLER
 
 //TODO: Needs dimensional information of controller housing so others can build
-//TODO: Needs 3D model for 3D printing
 
 ## CODE
 Here is information about the necessary code for King Pong.
