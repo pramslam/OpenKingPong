@@ -1,4 +1,5 @@
 # Getting started
+This is a list of all parts and code used to build King Pong. Sections marked //TODO are blockers to keep King Pong from becoming a popup event.
 
 ## PARTS
 These are the necessary parts to build King Pong and sources on how to get/make them.
@@ -46,3 +47,5 @@ https://github.com/pramslam/OpenKingPong/tree/master/Code/KingPong2D
 https://github.com/pramslam/OpenKingPong/tree/master/Code/king-pong-2d
 
 https://github.com/pramslam/OpenKingPong/tree/master/Code/KingPong
+
+//TODO: Consolidate Unity files into one working game
